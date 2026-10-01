@@ -41,8 +41,8 @@ I actively contribute to localizing open-source software and documentation from 
 
 ### 📫 Let's Connect
 
-*   **Email:** [your.email@example.com](mailto:simone.esposito4@proton.me)
-*   **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/simone-esposito-426b062b1)
+*   **Email:** [simone.esposito4@proton.me](mailto:simone.esposito4@proton.me)
+*   **LinkedIn:** [linkedin.com/in/simone-esposito-426b062b1](www.linkedin.com/in/simone-esposito-426b062b1)
 <!--
 **dms1e4/dms1e4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
