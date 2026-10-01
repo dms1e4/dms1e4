@@ -36,6 +36,13 @@ I actively contribute to localizing open-source software and documentation from 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![ZimaOS](https://img.shields.io/badge/ZimaOS-2C2D3C?style=for-the-badge)
+
+---
+
+### 📫 Let's Connect
+
+*   **Email:** [your.email@example.com](mailto:simone.esposito4@proton.me)
+*   **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/simone-esposito-426b062b1)
 <!--
 **dms1e4/dms1e4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
