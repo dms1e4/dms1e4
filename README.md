@@ -9,7 +9,7 @@
 I actively contribute to localizing open-source software and documentation from English to Italian.
 
 *   **Jellyfin** - *UI translation.* (https://translate.jellyfin.org/user/dms1e4/)
-*   **RomM** - *UI translation.* [PR #5006](https://github.com/rommapp/romm/pull/5006) (Under Review)
+*   **RomM** - *UI translation.* [PR #5006](https://github.com/rommapp/romm/pull/5006)
 
 ---
 
