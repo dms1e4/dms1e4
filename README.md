@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Simone!
 
-🎓 **Computer Science Student @ UNISA, Salerno ** | 💻 **Software Developer** | 🐧 **Homelab & Self-Hosting Enthusiast**
+🎓 **Computer Science Student @ UNISA, Salerno** | 💻 **Software Developer** | 🐧 **Homelab & Self-Hosting Enthusiast**
 
 ---
 
